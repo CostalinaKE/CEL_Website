@@ -1,23 +1,19 @@
-/* Import Tailwind CSS (styling framework) */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/*  Costalina Brand Colors */
 :root {
-  --primary-color: #3C41D1;    /* Blue */
-  --secondary-color: #FFF200;  /* Yellow */
-  --accent-color: #FAFAFA;     /* White */
+  --primary-color: #3C41D1;
+  --secondary-color: #FFF200;
+  --accent-color: #FAFAFA;
 }
 
-/* Basic styling for the whole website */
 body {
-  font-family: system-ui, sans-serif;  /* Font to use */
-  color: #1a1a1a;                      /* Text color (dark gray) */
-  background-color: #ffffff;           /* Background (white) */
+  font-family: system-ui, sans-serif;
+  color: #1a1a1a;
+  background-color: #ffffff;
 }
 
-/* Smooth scrolling when clicking links */
 html {
   scroll-behavior: smooth;
 }
