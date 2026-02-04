@@ -134,7 +134,7 @@
                   <div className="aspect-[4/3] bg-gradient-to-br from-gray-200 to-gray-300">
                     <div className="absolute inset-0 flex items-center justify-center text-gray-500">
                       <div className="text-center">
-                        <div className="text-3xl mb-2">📸</div>
+                        <div className="text-3xl mb-2"></div>
                         <p className="text-xs">Detail Photo 1</p>
                       </div>
                     </div>
@@ -144,7 +144,7 @@
                   <div className="aspect-[4/3] bg-gradient-to-br from-gray-200 to-gray-300">
                     <div className="absolute inset-0 flex items-center justify-center text-gray-500">
                       <div className="text-center">
-                        <div className="text-3xl mb-2">📸</div>
+                        <div className="text-3xl mb-2"></div>
                         <p className="text-xs">Detail Photo 2</p>
                       </div>
                     </div>
@@ -216,7 +216,7 @@
                 />
                 <div className="absolute top-6 left-6 w-14 h-14 bg-white rounded-full flex items-center justify-center shadow-lg">
                   <div className="w-8 h-8 bg-[#3C41D1] rounded-full flex items-center justify-center text-white text-xl">
-                    ⛽
+                    
                   </div>
                 </div>
               </div>
@@ -242,7 +242,7 @@
                 />
                 <div className="absolute top-6 left-6 w-14 h-14 bg-white rounded-full flex items-center justify-center shadow-lg">
                   <div className="w-8 h-8 bg-[#00BCD4] rounded-full flex items-center justify-center text-white text-xl">
-                    🚚
+                    
                   </div>
                 </div>
               </div>
@@ -268,7 +268,7 @@
                 />
                 <div className="absolute top-6 left-6 w-14 h-14 bg-white rounded-full flex items-center justify-center shadow-lg">
                   <div className="w-8 h-8 bg-[#FFF200] rounded-full flex items-center justify-center text-gray-900 text-xl">
-                    🔧
+                    
                   </div>
                 </div>
               </div>
@@ -315,7 +315,7 @@
                   <div className="aspect-square bg-gradient-to-br from-gray-700 to-gray-800">
                     <div className="absolute inset-0 flex items-center justify-center text-gray-500">
                       <div className="text-center">
-                        <div className="text-4xl mb-2">📸</div>
+                        <div className="text-4xl mb-2"></div>
                         <p className="text-xs">Quality Check Photo</p>
                       </div>
                     </div>
@@ -336,7 +336,7 @@
                   <div className="aspect-square bg-gradient-to-br from-gray-700 to-gray-800">
                     <div className="absolute inset-0 flex items-center justify-center text-gray-500">
                       <div className="text-center">
-                        <div className="text-4xl mb-2">📸</div>
+                        <div className="text-4xl mb-2"></div>
                         <p className="text-xs">Certification Photo</p>
                       </div>
                     </div>
@@ -361,12 +361,12 @@
                   className="h-16 w-auto mb-4"
                 />
                 <div className="text-3xl font-semibold">
-                  <span>COSTALINA</span>
-                  <span className="block text-sm text-gray-500 font-normal mt-1">ENERGY LIMITED</span>
+                  <span></span>
+                  <span className="block text-sm text-gray-500 font-normal mt-1"></span>
                 </div>
               </div>
               <p className="text-gray-400 mb-6 leading-relaxed max-w-md font-light">
-                East Africa's trusted fuel distribution partner. Delivering quality, reliability, and excellence since 2010.
+                East Africa's trusted fuel distribution partner. Delivering quality, reliability, and excellence since 2018.
               </p>
             </div>
             
